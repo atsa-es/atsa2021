@@ -1,6 +1,6 @@
 ---
 title: "Applied Time Series Analysis"
-subtitle: "FISH 507 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Winter 2021"
+subtitle: "Fish 507 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Winter 2021"
 output:
   html_document:
     toc: true
@@ -17,6 +17,12 @@ knitr::opts_chunk$set(echo = TRUE)
 # Course overview
 
 This course is intended to give students an overview of the theory and practical aspects of fitting time series models to fisheries and environmental data. The course will cover topics ranging from autocorrelation and crosscorrelation, autoregressive (AR) and moving average (MA) models, univariate and multivariate state-space models, and estimating model parameters. This course also covers various aspects of assessing model performance and evaluating model diagnostics. The course is focused almost exclusively on problems and analyses in the time domain, and only briefly addresses methods for the frequency domain. In general, students will focus on conceptualizing analyses, implementing analyses, and making inference from the results.
+
+<br>
+
+# Textbook
+
+Holmes, E. E., M. D. Scheuerell, and E. J. Ward. Applied Time Series Analysis for Fisheries and Environmental data. eBook. [Available here](https://nwfsc-timeseries.github.io/atsa-labs/)
 
 <br>
 
@@ -77,10 +83,10 @@ Associate Professor, School of Aquatic & Fishery Sciences
 # Meeting times & locations
 
 ### Lectures 
-Tuesday & Thursday from 1:30-2:50 via [Zoom](https://washington.zoom.us/j/93874357621)
+Tuesday & Thursday from 1:30-2:50 via Zoom
 
 ### Computer Lab
-Thursday from 3:00-3:50 via [Zoom](https://washington.zoom.us/j/96843523832)
+Thursday from 3:00-3:50 via Zoom
 
 ### Office hours
 By appointment
